@@ -1,0 +1,3 @@
+C:/STM/git_test/build/debug/build/CMakeFiles/edit_cache.dir
+C:/STM/git_test/build/debug/build/CMakeFiles/git_test.dir
+C:/STM/git_test/build/debug/build/CMakeFiles/rebuild_cache.dir

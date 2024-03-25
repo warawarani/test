@@ -1,0 +1,25 @@
+# ninja log v5
+16	250	7330391404790011	CMakeFiles/git_test.dir/Core/Startup/startup_stm32f446retx.s.obj	66f744c9f8272566
+43	398	7330391406269035	CMakeFiles/git_test.dir/Core/Src/sysmem.c.obj	9f447a42682a9ec3
+0	420	7330391406485873	CMakeFiles/git_test.dir/Core/Src/syscalls.c.obj	e369efeea96decaf
+6	920	7330391411190606	CMakeFiles/git_test.dir/Core/Src/stm32f4xx_hal_msp.c.obj	368bc9159b005830
+11	1008	7330391411517546	CMakeFiles/git_test.dir/Core/Src/stm32f4xx_it.c.obj	43ba30b9cc26b277
+37	1040	7330391412682018	CMakeFiles/git_test.dir/Core/Src/system_stm32f4xx.c.obj	dae7f28cc42403e2
+54	1104	7330391412988123	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	ea32ab79cc723bb6
+23	1134	7330391413152929	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	9820a784564e3ade
+62	1153	7330391413883387	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	1f2498f65f9d03a5
+72	1178	7330391413883387	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	aeed10706b96410b
+399	1279	7330391415187207	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	69dcc9fa2d28c42f
+421	1531	7330391417175875	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	be8f03382922a61f
+251	1695	7330391418351534	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	c3d3ec179c63434f
+921	1806	7330391420561812	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	16140e21343138fe
+1041	2053	7330391422712192	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	4af4827142b41cf2
+1112	2111	7330391423024901	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	8ce9948c2b62b4b1
+1134	2140	7330391423666891	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	6eaafaefbbfc689f
+1008	2159	7330391424014862	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	e684d1c79776438e
+1178	2229	7330391424901419	CMakeFiles/git_test.dir/Core/Src/main.c.obj	12894f6c2f8379c7
+1279	2382	7330391426323316	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	2d535a8192cfb6bf
+1155	2401	7330391426559245	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	7de4bf5baf5df741
+1695	2648	7330391428737609	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	c744cc7b289206b6
+1532	2662	7330391429387625	CMakeFiles/git_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	1e45febf146c7f85
+2662	3160	7330391431748034	git_test.elf	58705bc088658f58
